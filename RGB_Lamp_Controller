@@ -1,0 +1,25 @@
+Reference, Quantity, Value, Footprint,MPN,Part Page
+C10 ,1,10uF X5R,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,GRM188R61A106KE69D,https://www.digikey.de/product-detail/de/murata-electronics-north-america/GRM188R61A106KE69D/490-10474-1-ND/5026392
+C2 ,1,100uF,Capacitor_SMD:CP_Elec_6.3x5.4,UWX1C101MCL1GB,https://www.digikey.de/product-detail/de/nichicon/UWX1C101MCL1GB/493-2105-1-ND/590080
+C5 ,1,10uF,Capacitor_SMD:CP_Elec_6.3x5.4,UWX1H100MCL1GB,https://www.digikey.de/product-detail/de/nichicon/UWX1H100MCL1GB/493-2135-1-ND/590110
+C9 C8 C7 C6 C1 C3 C4 ,7,100n,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,CL10B104KB8NNNC,https://www.digikey.de/product-detail/de/samsung-electro-mechanics/CL10B104KB8NNNC/1276-1000-1-ND/3889086
+D1 ,1,LED,LED_SMD:LED_0805_2012Metric,LTST-C171GKT,https://www.digikey.de/product-detail/de/lite-on-inc/LTST-C171GKT/160-1423-1-ND/386792
+J2 ,1,SWD,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,n/a,
+J3 ,1,RGB LED Stripe,al-other:RGB-LED-Stripe,n/a,
+JP1 ,1,BT_CFG,Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,n/a,
+Q1 Q2 Q3 ,3,DMN3042L,Package_TO_SOT_SMD:SOT-23,DMN3042L-7,https://www.digikey.de/product-detail/de/diodes-incorporated/DMN3042L-7/DMN3042L-7DIDKR-ND/5223279
+R1 ,1,10k,Resistor_SMD:R_0603_1608Metric,RC0603JR-0710KL,https://www.digikey.de/product-detail/de/yageo/RC0603JR-0710KL/311-10KGRCT-ND/729647
+R11 R12 R13 ,3,100k,Resistor_SMD:R_0603_1608Metric,RC0603JR-07100KL,https://www.digikey.de/product-detail/de/yageo/RC0603JR-07100KL/311-100KGRCT-ND/729645
+R15 ,1,330,Resistor_SMD:R_0603_1608Metric,RC0603FR-07330RL,https://www.digikey.de/product-detail/de/yageo/RC0603FR-07330RL/311-330HRCT-ND/730109
+R2 R4 R6 R14 ,4,4k7,Resistor_SMD:R_0603_1608Metric,RC0603JR-074K7L,https://www.digikey.de/product-detail/de/yageo/RC0603JR-074K7L/311-4.7KGRCT-ND/729732
+R8 R9 R10 R3 R5 R7 ,6,100,Resistor_SMD:R_0603_1608Metric,RC0603FR-07100RL,https://www.digikey.de/product-detail/de/yageo/RC0603FR-07100RL/311-100HRCT-ND/729835
+SW1 ,1,UP,Button_Switch_THT:SW_PUSH_6mm_H13mm,3-1825910-1,https://www.digikey.de/product-detail/de/te-connectivity-alcoswitch-switches/3-1825910-1/450-1643-ND/1632529
+SW2 ,1,MODE,Button_Switch_THT:SW_PUSH_6mm_H13mm,3-1825910-1,https://www.digikey.de/product-detail/de/te-connectivity-alcoswitch-switches/3-1825910-1/450-1643-ND/1632529
+SW3 ,1,DOWN,Button_Switch_THT:SW_PUSH_6mm_H13mm,3-1825910-1,https://www.digikey.de/product-detail/de/te-connectivity-alcoswitch-switches/3-1825910-1/450-1643-ND/1632529
+TP1 ,1,TP_G_CH,TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm,n/a,
+TP2 ,1,TP_R_CH,TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm,n/a,
+TP3 ,1,TP_B_CH,TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm,n/a,
+TP4 ,1,RCC_MCO,TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm,n/a,
+U1 ,1,STM32F030K6Tx,Package_QFP:LQFP-32_7x7mm_P0.8mm,---,
+U2 ,1,AP1117-15,Package_TO_SOT_SMD:SOT-223-3_TabPin2,AZ1117EH-3.3TRG1,https://www.digikey.de/product-detail/de/diodes-incorporated/AZ1117EH-3.3TRG1/AZ1117EH-3.3TRG1DICT-ND/5001336
+U3 ,1,RN4871,RF_Module:Microchip_RN4871,RN4871-V/RM118,https://www.digikey.de/product-detail/de/microchip-technology/RN4871-V-RM118/RN4871-V-RM118-ND/6130476

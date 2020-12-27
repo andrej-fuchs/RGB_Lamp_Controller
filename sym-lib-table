@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RGB_Lamp_Controller-rescue)(type Legacy)(uri ${KIPRJMOD}/RGB_Lamp_Controller-rescue.lib)(options "")(descr ""))
+)
